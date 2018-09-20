@@ -10,13 +10,13 @@ function draw() {
 	background(204);
 
 	//Neck
-	line(250, 285, 250, 345);
+	line(400, 285, 250, 345);
 
 	//Wheel
-	ellipse(250, 465, 70, 70);
+	ellipse(600, 465, 70, 70);
 
 	//Body
-	rect(200, 325, 100, 140);
+	rect(50, 325, 100, 140);
 
 	//Head
 	ellipse(250, 240, 90, 90);

@@ -13,15 +13,12 @@ function draw() {
 	stroke(0, 0, 0);
 	rect(150, 80, 140, 90);
 
-
-
 	//Eyes
 	fill(0, 0, 0);
 	rect(160, 120, 120, 30);
 	fill(255, 255, 255);
 	ellipse(190, 135, 20);
 	ellipse(250, 135, 20);
-
 
 	//Body
 	fill(255, 255, 255);
@@ -33,6 +30,7 @@ function draw() {
 	fill(255, 224, 024);
 	noStroke();
 	text("PLAY ME!", 190, 200);
+
 	//Feet
 	fill(0,0,0);
 	stroke(255, 255, 255);
